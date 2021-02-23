@@ -3,7 +3,7 @@
 ![LogoEsc](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/img/logoITT.jpg)
 ![LogoCarrera](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/img/logoTIC.png)
 
-# Información
+## Información
 
 **Nombre del alumno:** Arredondo Bonilla Cesar
 
@@ -17,9 +17,9 @@
 
 **Materia:** Análisis Avanzado de Software
 
-# Índice
+## Índice
 
-# Unidad 1
+### Unidad 1
 
 Carpeta Blog
  
