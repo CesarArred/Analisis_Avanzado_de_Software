@@ -1,7 +1,7 @@
 # Analisis_Avanzado_de_Software
 
-![LogoEsc](logoITT.jpg)
-![LogoCarrera](logoTIC.png)
+![LogoEsc](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/img/logoITT.jpg)
+![LogoCarrera](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/img/logoTIC.png)
 
 # Información
 
@@ -9,13 +9,13 @@
 
 **Numero de control:** 17212914.
 
-**Carrera**: Tegnologias de la Información y Comunicaciones.
+**Carrera**: Tecnologias de la Información y Comunicaciones.
 
 **Nombre Del equipo:** Ethereal Arts
 
 **Nombre del maestro:** Jaime Leonardo Enriquez Alvarez.
 
-Materia Analisis Avanzado de
+**Materia:** Analisis Avanzado de
 Software
 
 # Indice
