@@ -9,7 +9,7 @@
 
 **Numero de control:** 17212914.
 
-**Carrera**: Tecnologias de la Información y Comunicaciones.
+**Carrera**: Tecnologías de la Información y Comunicaciones.
 
 **Nombre Del equipo:** Ethereal Arts
 
@@ -23,6 +23,7 @@ Software
 # Unidad 1
 
 Carpeta Blog
+ 
  [C0.1 Integrar equipos_de_trabajo](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/C0.1_Integrar%20equipos%20de%20trabajo_ArredondoBonillaCesar.md)
   
 
