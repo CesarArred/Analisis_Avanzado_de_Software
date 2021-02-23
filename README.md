@@ -1,7 +1,7 @@
 # Analisis_Avanzado_de_Software
 
-![Logo](logoITT.jpg)
-![LogoS](logoTIC.png)
+![LogoEsc](logoITT.jpg)
+![LogoCarrera](logoTIC.png)
 
 # Información
 
