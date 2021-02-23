@@ -5,19 +5,19 @@
 
 # Información
 
-**Nombre Del alumno:** Arredondo Bonilla Cesar
+**Nombre del alumno:** Arredondo Bonilla Cesar
 
-**Numero de control:** 17212914
+**Número de control:** 17212914
 
 **Carrera**: Tecnologías de la Información y Comunicaciones
 
-**Nombre Del equipo:** Ethereal Arts
+**Nombre del equipo:** Ethereal Arts
 
 **Nombre del maestro:** Jaime Leonardo Enriquez Alvarez
 
-**Materia:** Analisis Avanzado de Software
+**Materia:** Análisis Avanzado de Software
 
-# Indice
+# Índice
 
 # Unidad 1
 
