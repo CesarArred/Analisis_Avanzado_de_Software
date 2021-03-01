@@ -35,10 +35,10 @@
 :open_file_folder: Carpeta Blog
 
 
- :bust_in_silhouette: Individual
+* :bust_in_silhouette: Individual
 
 
-:busts_in_silhouette: Equipo
+* :busts_in_silhouette: Equipo
 
 ---
 ### :pushpin: Unidad 3
@@ -46,10 +46,10 @@
 :open_file_folder: Carpeta Blog
 
 
- :bust_in_silhouette: Individual
+* :bust_in_silhouette: Individual
 
 
-:busts_in_silhouette: Equipo
+* :busts_in_silhouette: Equipo
 
 ---
 ### :pushpin: Unidad 4
@@ -57,9 +57,9 @@
 :open_file_folder: Carpeta Blog
 
 
- :bust_in_silhouette: Individual
+* :bust_in_silhouette: Individual
 
 
-:busts_in_silhouette: Equipo
+* :busts_in_silhouette: Equipo
 
 ---
