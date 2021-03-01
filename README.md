@@ -24,12 +24,12 @@
 :open_file_folder: Carpeta Blog
 
 
- :bust_in_silhouette:
+ :bust_in_silhouette: Individual
  +  [C0.1 Integrar equipos de trabajo](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/C0.1_Integrar%20equipos%20de%20trabajo_ArredondoBonillaCesar.md)
  +  [C0.2 Tipo de Sistema de información](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/C0.2_Tipo%20de%20Sistema%20de%20Informacion_ArredondoBonillaCesar.md)
 
 
-:busts_in_silhouette:
+:busts_in_silhouette: Equipo
 
 ---
 ### :pushpin: Unidad 2
@@ -37,10 +37,10 @@
 :open_file_folder: Carpeta Blog
 
 
- :bust_in_silhouette:
+ :bust_in_silhouette: Individual
 
 
-:busts_in_silhouette:
+:busts_in_silhouette: Equipo
 
 ---
 ### :pushpin: Unidad 3
@@ -48,10 +48,10 @@
 :open_file_folder: Carpeta Blog
 
 
- :bust_in_silhouette:
+ :bust_in_silhouette: Individual
 
 
-:busts_in_silhouette:
+:busts_in_silhouette: Equipo
 
 ---
 ### :pushpin: Unidad 4
@@ -59,9 +59,9 @@
 :open_file_folder: Carpeta Blog
 
 
- :bust_in_silhouette:
+ :bust_in_silhouette: Individual
 
 
-:busts_in_silhouette:
+:busts_in_silhouette: Equipo
 
 ---
