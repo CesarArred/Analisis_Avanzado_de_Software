@@ -26,7 +26,8 @@
 * :bust_in_silhouette: Individual
   +  [C0.1 Integrar equipos de trabajo](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/C0.1_Integrar%20equipos%20de%20trabajo_ArredondoBonillaCesar.md)
   +  [C0.2 Tipo de Sistema de información](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/C0.2_Tipo%20de%20Sistema%20de%20Informacion_ArredondoBonillaCesar.md)
-
+  + [C0.3 Diagrama de flujo sobre el proceso de desarrollo](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/C0.3_Diagrama%20de%20flujo%20sobre%20el%20proceso%20de%20desarrollo_ArredondoBonillaCesar.md)
+  
 * :busts_in_silhouette: Equipo
 
 ---
