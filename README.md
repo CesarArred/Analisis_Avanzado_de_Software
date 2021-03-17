@@ -29,6 +29,7 @@
   + [C0.3 Diagrama de flujo sobre el proceso de desarrollo](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/C0.3_Diagrama%20de%20flujo%20sobre%20el%20proceso%20de%20desarrollo_ArredondoBonillaCesar.md)
   
 * :busts_in_silhouette: Equipo
+  + [A0.1 Recopilación de datos por medio de la entrevista](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/A0.1_Data%20collection%20through%20the%20interview_ArredondoBonillaCesar.md)
 
 ---
 ### :pushpin: Unidad 2
