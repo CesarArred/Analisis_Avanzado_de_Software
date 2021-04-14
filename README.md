@@ -40,6 +40,7 @@
 * :bust_in_silhouette: Individual
   + [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio.](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/C1.1_Definicion%20objetivos%20generales,%20especificos%20asi%20como%20el%20modelo%20de%20negocios_ArredondoBonillaCesar.md)
   + [C1.2 Acta Constitutiva del proyecto](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/C1.2_Acta%20Constitutiva%20del%20Proyecto_Arredondo%20Bonilla%20Cesar.md)
+  + [C1.3 Requisitos del sistema](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/C1.3_Requsistos%20del%20sistema_Arredondo%20Bonilla%20Cesar.md)
 
 * :busts_in_silhouette: Equipo
 
