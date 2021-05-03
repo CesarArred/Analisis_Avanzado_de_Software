@@ -45,7 +45,7 @@
   + [C1.5  Modelado de requisitos a través de diagramas estructurados](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/C1.5_UML_Estado_componentes_distribucion_Arredondo%20Bonilla%20Cesar.md)
 * :busts_in_silhouette: Equipo
   + [A1.0 Consolidacion del acta constitutiva](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/A1.0_Consolidation%20of%20the%20constitutive%20act_Arredondo%20Bonilla%20Cesar.md)
-
+  + [A1.1 Modelado de requisitos a través de diagramas UML](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/A1.1_UML_Requirements_Modeling.md)
 
 ---
 ### :pushpin: Unidad 3
