@@ -43,6 +43,7 @@
   + [C1.3 Requisitos del sistema](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/C1.3_Requsistos%20del%20sistema_Arredondo%20Bonilla%20Cesar.md)
   + [C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/C1.4_Modelado%20de%20requisitos%20a%20traves%20de%20diagramas%20de%20comportamiento_Arredondo%20Bonilla%20Cesar.md)
   + [C1.5  Modelado de requisitos a través de diagramas estructurados](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/C1.5_UML_Estado_componentes_distribucion_Arredondo%20Bonilla%20Cesar.md)
+  + [C2.1 Especificacion de requerimientos funcionales](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/C2.1_Especificacion%20de%20Requerimientos%20Funcionales_ArredondoBonillaCesar.md)
 * :busts_in_silhouette: Equipo
   + [A1.0 Consolidacion del acta constitutiva](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/A1.0_Consolidation%20of%20the%20constitutive%20act_Arredondo%20Bonilla%20Cesar.md)
   + [A1.1 Modelado de requisitos a través de diagramas UML](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/A1.1_UML_Requirements_Modeling_Arredondo%20Bonilla%20Cesar.md)
