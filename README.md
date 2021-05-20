@@ -48,6 +48,8 @@
   + [A1.0 Consolidacion del acta constitutiva](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/A1.0_Consolidation%20of%20the%20constitutive%20act_Arredondo%20Bonilla%20Cesar.md)
   + [A1.1 Modelado de requisitos a través de diagramas UML](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/A1.1_UML_Requirements_Modeling_Arredondo%20Bonilla%20Cesar.md)
   + [A2.1 Especificacion de requisitos y documentacion](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/A2.1_ArredondoCesar_EtherealArts.md)
+  + [A2.2  Diseño de la arquitectura 4+1
+](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/A2.2_4%2B1%20Design%20Architecture_Arredondo%20Bonilla%20Cesar.md)
 ---
 ### :pushpin: Unidad 3
 
