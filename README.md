@@ -61,7 +61,7 @@
 
 
 * :busts_in_silhouette: Equipo
-
+  + [A3.1 Fase inicio Scrum](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/A3.1_ScrumFirstPhase_Arredondo%20Bonilla%20Cesar.md)
 ---
 ### :pushpin: Unidad 4
 
