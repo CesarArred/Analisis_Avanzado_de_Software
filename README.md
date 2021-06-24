@@ -64,6 +64,7 @@
   + [A3.1 Fase inicio Scrum](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/A3.1_ScrumFirstPhase_Arredondo%20Bonilla%20Cesar.md)
   + [A3.2 Fase inicio Artefactos](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/A3.2_Initial_Phase_Artifacts_Arredondo%20Bonilla%20Cesar.md)
   + [A3.3 Arquitectura de software a traves del Modelo C4](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/A3.3_Software%20architecture%20through%20the%20C4%20Model_Arredondo%20Bonilla%20Cesar.md)
+  + [A3.4  Fase planificacion y estimacion: Artefactos](https://github.com/CesarArred/Analisis_Avanzado_de_Software/blob/main/blog/A3.4_Planning_and_estimation_phase_Artifacts_ArredondoBonillaCesar.md)
 ---
 ### :pushpin: Unidad 4
 
